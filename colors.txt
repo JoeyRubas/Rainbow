@@ -1,0 +1,5 @@
+Blue
+Red
+Green
+
+These are colors
